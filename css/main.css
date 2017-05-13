@@ -21,6 +21,7 @@
   background-color: black;
 }
 
+<!--OBSOLETE AT THE MO!-->
 .left-persistent {
   background-color: white;
   border: 0px;
@@ -32,12 +33,11 @@
 }
 
 .right-persistent {
-  background-color: white;
+  background-color: gray;
   border: 0px;
   border-left: 5px;
   border-style: solid;
   margin-top: -20px;
-  background-color:gray;
 }
 
 .main {
@@ -55,4 +55,5 @@
   border-radius: 0px;
   border-left: 0px;
   border-right: 0px;
+  color: green;
 }
