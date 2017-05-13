@@ -21,7 +21,7 @@
   background-color: black;
 }
 
-.left-persistant {
+.left-persistent {
   background-color: white;
   border: 0px;
   border-right: 5px;
@@ -31,13 +31,12 @@
   background-color:gray;
 }
 
-.right-persistant {
+.right-persistent {
   background-color: white;
   border: 0px;
   border-left: 5px;
   border-style: solid;
   margin-top: -20px;
-  margin-right: 15px;
   background-color:gray;
 }
 
