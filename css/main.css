@@ -34,7 +34,8 @@
   border-style: solid;
   margin-top: -20px;
   border-color: black;
-  border-style: dotted;
+  border-style: solid;
+  background-image: url(../images/diagbggray.jpg)
 }
 
 .main {
@@ -53,9 +54,6 @@
   border-radius: 0px;
   border-left: 0px;
   border-right: 0px;
+  background-image: url(../images/diagbgblack.jpg)
 }
-
-.background-gradient {
-  background: rgb(77, 77, 77);
-  background: linear-gradient(to bottom right, #414141, #272727)
-}
+*/
