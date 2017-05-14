@@ -19,7 +19,7 @@
   margin: -20px;
   min-height: 200px;
 
-  border-color: black;
+  border-color: #242424;
   border-width: 0px;
   border-style: solid;
   border-bottom-width: 2px;
@@ -29,11 +29,12 @@
 
 .right-persistent {
   background-color: gray;
-  border-color: black;
   border: 0px;
-  border-left: 5px;
+  border-left: 2px;
   border-style: solid;
   margin-top: -20px;
+  border-color: black;
+  border-style: dotted;
 }
 
 .main {
