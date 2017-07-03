@@ -1,0 +1,26 @@
+.header {
+  font-size:42;
+  font-family: 'Luckiest Guy', cursive;
+  text-align: center;
+}
+.topbox {
+  margin: auto;
+  width: 75%;
+  border: 3px solid black;
+  padding: 10px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.menuBar {
+  margin: auto;
+  width: 75%;
+  height: 40px;
+  border: 0px;
+  border-left: 3px solid;
+  border-right: 3px solid;
+}
+.mainBox {
+  margin: auto;
+  width: 75%;
+  border:3px solid black;
+}
