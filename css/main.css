@@ -12,17 +12,20 @@
   border-top-right-radius: 25px;
   margin-top: 40px;
 }
-.menuBar {
+.menuDiv {
   width: 75%;
   margin: auto;
   border: 0px;
   border-left: 3px solid;
   border-right: 3px solid;
+  min-height: 20px;
 }
 .mainBox {
   margin: auto;
   width: 75%;
   border:3px solid black;
+  height: 65%;
+  padding-bottom: 40px;
 }
 .menuBarList {
 list-style-type: none;
